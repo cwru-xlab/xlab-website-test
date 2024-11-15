@@ -1,6 +1,6 @@
 export const metadata = {
-  title: "Home - Simple",
-  description: "Page description",
+  title: "OpenData 2.0 - The Future of Data",
+  description: "Home of OpenData 2.0",
 };
 
 import Hero from "@/components/hero-home";
